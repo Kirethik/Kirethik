@@ -1,5 +1,5 @@
 ## Hi I'm Kirethik Here👋
-The Profile is uner development 😅
+The Profile is under development 😅
 
 About Me
 
