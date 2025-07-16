@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi I'm Kirethik Here👋
+The Profile is uner development 😅
 
-<!--
-**Kirethik/Kirethik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+Teach Stack and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Git Hub Sats
+## 📊 GitHub Stats
+
+![Kirethik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kirethik&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirethik&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kirethik&theme=radical)](https://git.io/streak-stats)
+
+
+Connect with me
