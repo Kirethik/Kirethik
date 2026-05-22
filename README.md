@@ -3,10 +3,6 @@
 <!-- Minecraft-style Banner -->
 <img src="https://raw.githubusercontent.com/kirethik/kirethik/main/banner.png" alt="Kirethik" width="80%" />
 
-> 💡 *Replace the image above with your Minecraft-style Kirethik banner image. Upload it to your repo as `banner.png`.*
-
-<br/>
-
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=5B8C3E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kirethik+%F0%9F%91%8B;Tech+Enthusiast+%F0%9F%9A%80;Full+Stack+Developer+%E2%9C%A8;Always+crafting+something+new+%E2%9B%8F%EF%B8%8F" alt="Typing SVG" />
